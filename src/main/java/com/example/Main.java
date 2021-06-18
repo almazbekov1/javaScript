@@ -14,5 +14,6 @@ public class Main {
             }
             a++;
         }
+        System.out.println();
     }
 }
